@@ -1,0 +1,26 @@
+{
+    "books":[{
+        "id" : 1,
+        "isbn" : "979-3062-79-7",
+        "judul" : "Laskar Pelangi",
+        "sinopsis": "Novel ini mengisahkan tentang sepuluh anak Belitung yang tergabung dalam Laskar Pelangi. Cerita ini mengisahkan tentang kehidupan di pedalaman Belitung yang kontras dan yang kaya akan timah, namun masyarakatnya tidak mampu memenuhi kehidupannya sehari-hari.",
+        "penulis": "Andrea Hirata",
+        "genre": "drama"
+    },
+    {
+        "id": 2,
+        "isbn":"978-979-794-525-1",
+        "judul": "Garis Waktu",
+        "sinopsis": "Pada sebuah garis waktu yang merangkak maju, akan ada saatnya kau bertemu dengan satu orang yang mengubah hidupmu untuk selamanya.",
+        "penulis": "Fiersa Besar",
+        "genre": "roman"
+    },
+    {
+        "id": 3,
+        "isbn":"978-602-5024-56-6 ",
+        "judul":"Semesta Matsnawi (Masnavi)",
+        "sinopsis":"Jika kau ingin Tuhan jadi menyenangkan bagimu,pandanglah Ia dengan mata orang-orang yang mencintai-Nya.",
+        "penulis":"Jalaluddin Rumi",
+        "genre":"poem"
+    }]
+}
